@@ -2,6 +2,11 @@
 
 LowProFool is an algorithm that generates imperceptible adversarial examples
 
+This GitHub hosts the code for the following paper:
+
+Ballet, V., Renard, X., Aigrain, J., Laugel, T., Frossard, P., & Detyniecki, M. (2019). Imperceptible Adversarial Attacks on Tabular Data. NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy (Robust AI in FS 2019), Vancouver, Canada
+https://arxiv.org/abs/1911.03274
+
 ### Adverse.py
 
 Contains the implementation of LowProFool [[1]](about:blank) along with an modifier version of DeepFool [[2]](about:blank) that handles tabular datasets.
