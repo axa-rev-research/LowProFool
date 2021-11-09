@@ -1,3 +1,7 @@
+__Disclaimer:__ This repository is not maintained anymore
+
+------
+
 # LowProFool
 
 LowProFool is an algorithm that generates imperceptible adversarial examples
